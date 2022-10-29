@@ -17,13 +17,28 @@
 .bg-img{
     
     width: 100%;
+    height: 100vh;
 }
 .img-ri8{
     float: right;
-    height: 100px;
-    width: 100px;
+    height: 180px;
+    width: 380px;
+    margin-left: 10px;
     
 }
 .text{
     text-align: justify;
+}
+h1{
+    text-align: center;
+}
+.button{
+    text-align: center;
+    padding: 0px;
+}
+.img-radius{
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    margin-left: 293px;
 }
